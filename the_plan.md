@@ -9,4 +9,11 @@
 # Technologies
 
 ## Supabase
+
 Uses PostgreSQL as the database.
+
+## Git
+
+Used to manage the fact that two people are workin on this.
+
+Also used for backup.
