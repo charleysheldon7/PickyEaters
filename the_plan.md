@@ -1,3 +1,15 @@
+# Concept
+
+We select a series a filters, depending on what our family is in the mood for.
+It returns a list of restaurant, or optionally just one restaurant.
+
+## Filters
+
+Cuisine - Mexican, TexMex, Mexican-American Fusion
+Lighting - Dark/Light
+Volume - Quiet/Loud
+Distance - Miles
+
 
 # What we're gonna do
 
@@ -17,3 +29,14 @@ Uses PostgreSQL as the database.
 Used to manage the fact that two people are workin on this.
 
 Also used for backup.
+
+# Conventions
+
+## Database
+
+Tables - PascalCase
+
+# Database Organization
+
+## Restaurant
+
