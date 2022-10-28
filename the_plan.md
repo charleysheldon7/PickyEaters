@@ -10,6 +10,10 @@ Lighting - Dark/Light
 Volume - Quiet/Loud
 Distance - Miles
 
+## Restaurant Hours
+
+Lists hours, with only restuarants that are open now.
+
 
 # What we're gonna do
 
@@ -39,4 +43,6 @@ Tables - PascalCase
 # Database Organization
 
 ## Restaurant
+
+RestaurantID, RestaurantName, RestaurantAddress
 
